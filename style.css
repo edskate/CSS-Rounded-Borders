@@ -1,0 +1,17 @@
+p.one {
+    border-style: solid;
+    border-color: red;
+    text-align: center;
+  }
+  
+  p.two {
+    border-style: solid;
+    border-color: green;
+    text-align: center;
+  } 
+  
+  p.three {
+    border-style: dotted;
+    border-color: blue;
+    text-align: center;
+  } 
